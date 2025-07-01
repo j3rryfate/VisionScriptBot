@@ -1,6 +1,6 @@
 {
   "build": {
-    "builder": "NIXPACKS" // HEROKU အစား NIXPACKS ကို သုံးပါ
+    "builder": "NIXPACKS" 
   },
   "deploy": {
     "numReplicas": 1,
